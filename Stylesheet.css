@@ -1,0 +1,25 @@
+ #lb{
+ float:left;
+ width: 400px;
+ height:590px;
+ margin-right:50px;
+ border:solid black;
+ 
+
+}
+#mb{
+    float:left;
+    width: 400px;
+    height:590px;
+    margin-right:20px;
+    border:solid black;
+    
+   }
+   #rb{
+    float:right;
+    width: 400px;
+    height:590px;
+    
+ border:solid black;
+   
+   }
