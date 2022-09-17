@@ -1,6 +1,26 @@
+body{
+  background-image:url(./IN-en-20220912-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+}
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
   }
+#MainLogo{
+margin-left:35%;
+
+}
+#Navbar{
+  float:right;
+  margin-right:20px;
+  height:20px;
+  padding:10px;
+  }
+#Abus{
+  padding: 20px;
+  background-color: black;
+  position:relative;
+  width:100%;
+}

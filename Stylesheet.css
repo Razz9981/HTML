@@ -1,25 +1,39 @@
- #lb{
- float:left;
- width: 400px;
- height:590px;
- margin-right:50px;
- border:solid black;
- 
+body{
 
+  background-image:url(./IN-en-20220912-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
 }
-#mb{
-    float:left;
-    width: 400px;
-    height:590px;
-    margin-right:20px;
-    border:solid black;
+#LOGO
+{
+  position: absolute;
+  margin-left: 17%;
+}
+
+
+#mainBox{
+  padding: 20px;
+  position: absolute;
+  margin-top:20%;
+  margin-left: 37%;
+  background-color: black;
+  
+}
+  #navbar{
+    position: relative;
+    margin-bottom: 10%;
+  }
+  #Footer{
+    padding:5px;
+    float: left;
+    width:100%;
     
-   }
-   #rb{
-    float:right;
-    width: 400px;
-    height:590px;
-    
- border:solid black;
-   
-   }
+    color: red;
+    position:relative;
+    margin-top:50%;
+    background-color: black;
+  }
+  #md{
+    padding:2px;
+    text-decoration:underline;
+    position: relative;
+    margin-left:43%;
+  }
